@@ -1,0 +1,376 @@
+  .signin-istockphoto1161233893170667a1 {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    object-fit: fill;
+    border-color: transparent;
+  }
+  .signin-rectangle11 {
+    top: 195px;
+    left: 200px;
+    width: 940px;
+    height: 758px;
+    opacity: 0.50;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: rgba(255, 0, 0, 1);
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 91px;
+    background-color: rgba(3, 3, 3, 1);
+  }
+  .signin-topbar {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 130px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    background-color: rgba(168, 172, 177, .75);
+  }
+  .signin-logoandname {
+    top: 16px;
+    left: 432px;
+    width: 576px;
+    height: 98.38639068603516px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .signin-wolflogo1 {
+    top: 0px;
+    left: 0px;
+    width: 100px;
+    height: 98px;
+    position: absolute;
+    box-sizing: content-box;
+    object-fit: cover;
+    border-color: rgba(245, 245, 245, 1);
+    border-style: solid;
+    border-width: 2.9515914916992188px;
+    border-radius: 35.419097900390625px;
+  }
+  .signin-text {
+    top: 0px;
+    left: 145.0675811767578px;
+    color: rgba(255, 255, 255, 1);
+    width: 431px;
+    height: auto;
+    position: absolute;
+    font-size: 67.17988586425781px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    line-height: normal;
+    text-shadow: -5px 5px 5px black;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-text1 {
+    top: 221px;
+    left: 587px;
+    color: rgba(255, 255, 255, 1);
+    width: 265px;
+    height: auto;
+    position: absolute;
+    font-size: 64.63243865966797px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-box {
+    top: 337px;
+    left: 250px;
+    width: 828px;
+    height: 468px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .signin-address {
+    top: 310px;
+    left: 0px;
+    width: 828px;
+    height: 158px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .signin-rectangle12 {
+    top: 2px;
+    left: 231px;
+    width: 597px;
+    height: 156px;
+    opacity: 0.50;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 26px;
+    background-color: rgba(217, 217, 217, 1);
+  }
+  .signin-text2 {
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 45px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-email {
+    top: 204px;
+    left: 0px;
+    width: 828px;
+    height: 69px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .signin-rectangle121 {
+    top: 2px;
+    left: 231px;
+    width: 597px;
+    height: 67px;
+    opacity: 0.50;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 26px;
+    background-color: rgba(217, 217, 217, 1);
+  }
+  .signin-text3 {
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 45px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-name {
+    top: 0px;
+    left: 63px;
+    width: 765px;
+    height: 67px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .signin-rectangle122 {
+    top: 0px;
+    left: 168px;
+    width: 597px;
+    height: 67px;
+    opacity: 0.50;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 26px;
+    background-color: rgba(217, 217, 217, 1);
+  }
+  .signin-text4 {
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 45px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-phone {
+    top: 103px;
+    left: 63px;
+    width: 765px;
+    height: 67px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .signin-rectangle123 {
+    top: 0px;
+    left: 168px;
+    width: 597px;
+    height: 67px;
+    opacity: 0.50;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 26px;
+    background-color: rgba(217, 217, 217, 1);
+  }
+  .signin-text5 {
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 45px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .signin-subbutton {
+    top: 837px;
+    left: 580px;
+    width: 279px;
+    border: 8px solid #FF0000;
+    height: 82px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-radius: 50px;
+    background-color: rgba(236, 217, 40, 1);
+  }
+  .signin-text6 {
+    top: -1px;
+    left: 35px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 49.647212982177734px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+#phone{
+    border:none;
+    background: none;
+    outline: 0;
+    width: 597px;
+    height: 67px;
+    font-size: 45px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    border-radius: 26px;
+    text-align: center;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+#email{
+    border:none;
+    background: none;
+    outline: 0;
+    width: 597px;
+    height: 67px;
+    font-size: 37px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    border-radius: 26px;
+    text-align: center;
+}
+#adrs{
+    border:none;
+    background: none;
+    outline: 0;
+    width: 597px;
+    height: 156px;
+    font-size: 30px;
+    font-style: normal;
+    text-align: left;
+    font-family: Fugaz One;
+    font-weight: 400px;
+    border-radius: 26px;
+}
+.backbutton1{
+    top: 18px;
+  left: 22px;
+  width: 85px;
+  height: 82px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+#name{
+  border:none;
+  background: none;
+  outline: 0;
+  width: 597px;
+  height: 67px;
+  font-size: 45px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Fugaz One;
+  font-weight: 400px;
+  border-radius: 26px;
+  text-align: center;
+}
